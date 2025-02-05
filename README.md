@@ -11,22 +11,22 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=30)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=30)&nbsp;
 ![Expo](https://img.shields.io/badge/Expo-%23f0f0f0?style=for-the-badge&logo=expo&logoColor=%231C2024&logoSize=30)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-%232320232A?style=for-the-badge&logo=redux&logoColor=%23764ABC&logoSize=30)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-%232320232A?style=for-the-badge&logo=jest&logoColor=%23C21325&logoSize=30)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-%2320232A?style=for-the-badge&logo=redux&logoColor=%23764ABC&logoSize=30)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-%2320232A?style=for-the-badge&logo=jest&logoColor=%23C21325&logoSize=30)&nbsp;
 
 #### Backend Development:
-![Node.JS](https://img.shields.io/badge/Node.JS-%232320232A?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&logoSize=30)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.JS-%2320232A?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&logoSize=30)&nbsp;
 ![Express](https://img.shields.io/badge/Express-%23f0f0f0?style=for-the-badge&logo=express&logoColor=%23000000&logoSize=30)&nbsp;
-![Static Badge](https://img.shields.io/badge/MongoDB-%232320232A?style=for-the-badge&logo=mongodb&logoColor=%2347A248&logoSize=30)&nbsp;
+![Static Badge](https://img.shields.io/badge/MongoDB-%2320232A?style=for-the-badge&logo=mongodb&logoColor=%2347A248&logoSize=30)&nbsp;
 
 #### Programming Languages:
 ![Javascript](https://img.shields.io/badge/Javascript-%2320232A?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=30)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-%23f0f0f0?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=30)
 
 #### Tools:
-![Git](https://img.shields.io/badge/Git-%232320232A?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=30)
-![Postman](https://img.shields.io/badge/Postman-%232320232A?style=for-the-badge&logo=postman&logoColor=%23FF6C37&logoSize=30)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%232320232A?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84&logoSize=30)
+![Git](https://img.shields.io/badge/Git-%2320232A?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=30)
+![Postman](https://img.shields.io/badge/Postman-%2320232A?style=for-the-badge&logo=postman&logoColor=%23FF6C37&logoSize=30)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%2320232A?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84&logoSize=30)
 ![Vercel](https://img.shields.io/badge/Vercel-%23f0f0f0?style=for-the-badge&logo=vercel&logoColor=%23000000&logoSize=30)
 
 
