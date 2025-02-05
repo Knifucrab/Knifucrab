@@ -21,13 +21,20 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 #### Programming Languages:
 ![Javascript](https://img.shields.io/badge/Javascript-%2320232A?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=30)&nbsp;
-![Typescript](https://img.shields.io/badge/Typescript-%23f0f0f0?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=30)
+![Typescript](https://img.shields.io/badge/Typescript-%23f0f0f0?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=30)&nbsp;
 
 #### Tools:
-![Git](https://img.shields.io/badge/Git-%2320232A?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=30)
-![Postman](https://img.shields.io/badge/Postman-%2320232A?style=for-the-badge&logo=postman&logoColor=%23FF6C37&logoSize=30)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%2320232A?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84&logoSize=30)
-![Vercel](https://img.shields.io/badge/Vercel-%23f0f0f0?style=for-the-badge&logo=vercel&logoColor=%23000000&logoSize=30)
+![Git](https://img.shields.io/badge/Git-%2320232A?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=30)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-%2320232A?style=for-the-badge&logo=postman&logoColor=%23FF6C37&logoSize=30)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%2320232A?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84&logoSize=30)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-%23f0f0f0?style=for-the-badge&logo=vercel&logoColor=%23000000&logoSize=30)&nbsp;
+
+#### Methodologies and Soft Skills:
+![Static Badge](https://img.shields.io/badge/Scrum-%232320232A?style=for-the-badge)&nbsp;
+![Static Badge](https://img.shields.io/badge/Problem-%232320232A?style=for-the-badge)&nbsp;
+![Static Badge](https://img.shields.io/badge/Problem%20solving-%232320232A?style=for-the-badge)&nbsp;
+![Static Badge](https://img.shields.io/badge/Teamworking-%232320232A?style=for-the-badge)&nbsp;
+
 
 
 
